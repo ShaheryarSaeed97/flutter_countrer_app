@@ -1,2 +1,3 @@
 # flutter_countrer_app
-My flutter projects
+A SIMPLE COUNTER APP MADE THROUGH FLUTTER
+
